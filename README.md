@@ -1,3 +1,2 @@
 
-Simple script to collect information from Linux environment
-Mainly for CentOS
+Simple script to collect information from Linux (CentOS) environment
